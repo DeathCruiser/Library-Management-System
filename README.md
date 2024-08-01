@@ -1,7 +1,7 @@
 ## library-management-project-using-python-and-tkinter
 
 
-developer :  salah sammari
+developer :  akash_chatterjee
 
 Library Management System
 Library Management System written in Python, tkinter and MySQL
